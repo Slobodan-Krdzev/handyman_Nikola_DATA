@@ -1,0 +1,35 @@
+{
+  "contacts": [
+      {
+        "id": 1,
+        "name": "Slobodan",
+        "email": "slobodankrdzev@yahoo.com",
+        "city": "Gevgelija",
+        "adress": "Vancho Prke 18",
+        "zip": "1430",
+        "phone": "+389 77 551 082",
+        "isAnswered": true
+      },
+      {
+        "id": 2,
+        "name": "Nenad",
+        "email": "nenadkrdzev@yahoo.com",
+        "city": "Gevgelija",
+        "adress": "Vancho Prke 18",
+        "zip": "1430",
+        "phone": "+389 77 551 082",
+        "isAnswered": false
+      },
+      {
+        "id": 3,
+        "name": "Nikola",
+        "email": "nikolakocev@yahoo.com",
+        "city": "Strumica",
+        "adress": "Vancho Prke 18",
+        "zip": "1430",
+        "phone": "+389 77 551 082",
+        "isAnswered": true
+      }
+    
+  ]
+}
